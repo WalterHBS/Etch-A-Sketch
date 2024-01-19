@@ -1,0 +1,10 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.Etch-container{
+height: 512px;
+width: 512px;
+border: 1px black solid;
+}
